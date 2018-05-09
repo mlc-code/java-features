@@ -1,6 +1,13 @@
-Las nuevas caracteristicas de Java 10
 
-# [JEP-286](http://openjdk.java.net/jeps/286) Inferencia de tipos en variables locales
+
+#Las nuevas caracteristicas de Java 10
+
+fuentes:
+- https://docs.oracle.com/javase/10/
+- https://www.journaldev.com/20395/java-10-features
+- https://blogs.oracle.com/java-platform-group/introducing-java-se-10
+
+## [JEP-286](http://openjdk.java.net/jeps/286) Inferencia de tipos en variables locales
 
 La inferencia de tipos se realiza sobre variables locales con una inicializacion.
 
@@ -108,6 +115,9 @@ Se mejoro el acceso de esta tecnologia a mas sistemas operativos para ayudas a u
 El garbage collector G1 es el utilizado por defecto desde java 9. Se mejoro el proceso de 'limpieza' agregandole soporte para que sea completamente concurrente y se minimize el impacto en la experiencia de usuario.  
 
 # [JEP-301](http://openjdk.java.net/jeps/301) Se mejoraron los enumerados
+
+
+
 
 # [JEP-312](http://openjdk.java.net/jeps/312) Se mejora la comunicacion de thread localles
 
